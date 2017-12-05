@@ -1,2 +1,4 @@
 # vscode
 deneme
+omer
+deneme
